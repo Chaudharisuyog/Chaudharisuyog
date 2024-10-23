@@ -1,4 +1,4 @@
-![logo](https://github.com/Chaudharisuyog/Chaudharisuyog/blob/main/Suyog%20Chaudhari.png)
+
 <h1 align="center">Hi 👋, I'm Suyog Chaudhari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
